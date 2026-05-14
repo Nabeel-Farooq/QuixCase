@@ -18,7 +18,7 @@ QuixCase is your one-stop solution for seamless text case conversions. Easily sw
 ## Download
  | Release|
  | ----------- |
- | [Download QuixCase](https://github.com/iandiv/QuixCase/releases) |
+ | [Download QuixCase]([https://github.com/Nabeel-Farooq/QuixCase/releases)|
 
 
 
