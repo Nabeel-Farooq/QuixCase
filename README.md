@@ -15,13 +15,6 @@ QuixCase is your one-stop solution for seamless text case conversions. Easily sw
 - Capital Each Word 
 - tOGGLE cASE
 
-## Download
- | Release|
- | ----------- |
- | [Download QuixCase]([https://github.com/Nabeel-Farooq/QuixCase/releases)|
-
-
-
 ## Contribute
 QuixCase is an open-source project, and we welcome contributions from the community. Whether you want to report issues, suggest new features, or submit code improvements, your help is appreciated.
 
